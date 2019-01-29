@@ -1,4 +1,4 @@
-
+/* this third time modified file
 /* This is a simple Java program. 
    FileName : "HelloWorld.java". */
 class HelloWorld 
@@ -8,7 +8,6 @@ class HelloWorld
     public static void main(String args[]) 
     { 
         System.out.println("Hello, World"); 
-        System.out.println("Hello, GIT");
     } 
 } 
 
